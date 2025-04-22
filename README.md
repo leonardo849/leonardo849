@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Leonardo, I'm a backend dev from Brazil. 
+
+Languages: JS, TS, GO
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
 <!--
 **leonardo849/leonardo849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
