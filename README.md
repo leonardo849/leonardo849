@@ -9,7 +9,7 @@ Languages: JS, TS, GO
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-
+[![Linguagens frequentes](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo849&theme=nightowl&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **leonardo849/leonardo849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
