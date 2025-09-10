@@ -2,11 +2,14 @@
 
 My name is Leonardo, I'm a backend dev from Brazil. 
 
+Currently, I'm learning Java
+
 Languages: JS, TS, GO
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 [![Linguagens frequentes](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo849&theme=nightowl&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
